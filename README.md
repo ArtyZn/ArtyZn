@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hey!
+There's not much to see here, so I guess I'll just add some links.
 
-<!--
-**ArtyZn/ArtyZn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Codeforces:
+https://codeforces.com/profile/ArtyZn
+- Timus:
+https://timus.online/author.aspx?id=265610
+- Codewars:
+https://www.codewars.com/users/ArtyZn
+- LinkedIn: 
+https://www.linkedin.com/in/ArtyZn
+- Chess.com:
+https://www.chess.com/member/artyzn
 
-Here are some ideas to get you started:
+Want to find me anywhere else? Chances are my name is @ArtyZn there too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+
+Since it's a repository, all file changes will be saved, right? 
+I definitely don't want my chess.com profile to be here, but I guess it's fine for now.
+Maybe deleting this repo and creating a new one will help with removing history... 
+
 -->
