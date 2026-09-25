@@ -8,11 +8,11 @@ Most of my personal projects are built end-to-end: I choose the stack, design th
 
 Tech
 
-Languages: Kotlin · Java · Python · TypeScript · JavaScript · SQL
-Backend: Spring Boot · Node.js · Express · FastAPI · Flask
-Data: PostgreSQL · MongoDB · Redis
-Infrastructure: Linux · Docker · Git · Gradle · Maven
-Other: REST · WebSocket · GraalVM · systemd
+- Languages: Kotlin · Java · Python · TypeScript · JavaScript · SQL
+- Backend: Spring Boot · Node.js · Express · FastAPI · Flask
+- Data: PostgreSQL · MongoDB · Redis
+- Infrastructure: Linux · Docker · Git · Gradle · Maven
+- Other: REST · WebSocket · GraalVM · systemd
 
 Selected Projects
 
